@@ -67,3 +67,8 @@
 ➢ 測試及部署:
 在本地測試 Line Bot 的功能，確保一切正常後，部署到適當的伺服器上，
 並測試與 Line Messenger 的連接。
+
+
+
+https://github.com/Huang-Chun-Lin/Eatt/assets/113004851/e0f63823-f122-4269-b324-3a6abbae43a8
+
